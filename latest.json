@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "versionCode": 2,
+  "publishedAt": "2026-11-25T21:19:35Z",
+  "notes": "SurfaceLink RDP v1.1.0: Integrierter GitHub-Auto-Updater beim Start (Windows 11 ARM64 & Galaxy S24+) sowie Google-OAuth Live-E2EE-Tunnel.",
+  "windowsArm64EncUrl": "https://github.com/TobiasZero/SurfaceLink-Updates/releases/download/v1.1.0/SurfaceLink.Host.exe.enc",
+  "androidApkEncUrl": "https://github.com/TobiasZero/SurfaceLink-Updates/releases/download/v1.1.0/SurfaceLink-Client.apk.enc"
+}
