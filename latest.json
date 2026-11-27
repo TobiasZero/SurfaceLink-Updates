@@ -1,8 +1,9 @@
 {
-  "version": "2.7.0",
-  "versionCode": 22,
-  "publishedAt": "2026-11-27T20:36:10Z",
-  "notes": "SurfaceLink RDP v2.7.0: Integrierter GitHub-Auto-Updater beim Start (Windows 11 ARM64 & Galaxy S24+) sowie Google-OAuth Live-E2EE-Tunnel.",
-  "windowsArm64EncUrl": "https://github.com/TobiasZero/SurfaceLink-Updates/releases/download/v2.7.0/SurfaceLink.Host.exe.enc",
-  "androidApkEncUrl": "https://github.com/TobiasZero/SurfaceLink-Updates/releases/download/v2.7.0/SurfaceLink-Client.apk.enc"
+  "version": "2.7.1",
+  "versionCode": 23,
+  "publishedAt": "2026-11-27T20:50:51Z",
+  "notes": "SurfaceLink RDP v2.7.1: Direkter signierter APK-Release (Obtainium-kompatibel, ohne Play-Developer-Account) + Windows 11 ARM64 Auto-Updater.",
+  "windowsArm64EncUrl": "https://github.com/TobiasZero/SurfaceLink-Updates/releases/download/v2.7.1/SurfaceLink.Host.exe.enc",
+  "androidApkUrl": "https://github.com/TobiasZero/SurfaceLink-Updates/releases/download/v2.7.1/SurfaceLink-Client-arm64-release.apk",
+  "androidApkEncUrl": "https://github.com/TobiasZero/SurfaceLink-Updates/releases/download/v2.7.1/SurfaceLink-Client.apk.enc"
 }
